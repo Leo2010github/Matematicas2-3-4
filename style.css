@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: rgb(48, 48, 231);
+}
+.div{
+    background-color: white;
+    width: 270px;
+    height: 150px;
+    border-radius: 20px;
+}
+h1{
+    color: rgb(255, 251, 0);
+    font-size: 55px;
+}
+#f{
+    color: rgb(31, 7, 245);
+}
+#g{
+    color: darkred;
+}
+#h{
+    color: rgb(31, 7, 245);
+}
+#i{
+    color: darkred;
+}
+#J1{
+    color: rgb(31, 7, 245);
+    background-color: black;
+}
+#J2{
+    color: darkred;
+    background-color: black;
+}
+#Empezar{
+    background-color: green;
+    color: white;
+    font-size: 35px;
+    margin-top: 40px;
+}
+input{
+    text-align: center;
+}
+button{
+    border-radius: 20px;
+    width: 200px;
+    font-size: 20px;
+     background-color: rgb(74, 148, 25);
+}
